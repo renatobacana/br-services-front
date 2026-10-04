@@ -77,8 +77,8 @@ export default function Home() {
 
       <div className="max-w-4xl mx-auto text-center mt-4 px-4">
         <h1 className="text-4xl md:text-5xl font-extrabold text-[#1f4a38] mb-10 tracking-tight">
-          Book local, trusted help <br className="hidden md:block" /> for home
-          tasks 🍁
+        Believe, <br className="hidden md:block" /> we can do it
+          🍁
         </h1>
 
         <div className="max-w-2xl mx-auto flex items-center border border-gray-300 rounded-full overflow-hidden shadow-sm mb-14">
